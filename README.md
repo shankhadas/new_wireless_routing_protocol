@@ -8,7 +8,7 @@ Project Status
 --------------
 
 | Topics										| Source		| Status |
---------------------------------------------------------------------------
+|-----------------------------------------------|---------------|---------|
 | IEEE 802.15.4									| 				| Completed |
 | Network Structure								|				| Completed |
 | Frame Format / Packet Structure				|				| Completed |
