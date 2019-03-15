@@ -6,3 +6,15 @@ For the new proposed protocol, the 802.15.4 protocol needs to be tweaked and the
 
 Project Status
 --------------
+
+| Topics										| Source		| Status |
+--------------------------------------------------------------------------
+| IEEE 802.15.4									| 				| Completed |
+| Network Structure								|				| Completed |
+| Frame Format / Packet Structure				|				| Completed |
+| Metrics Measurement for Network Efficiency	|				| Completed |
+| Buffer Space availability for CC2650 Launchpad and TI-RTOS |	| TBD       |
+| Probability Measurement 						|				| TBD       |
+| Contiki with Hands-on							|				| Completed	|
+| RIOT with Hands-on							|				| On-going	|
+| Code Composer Studio with CC2650 Launchpad	|				| On-going	|
