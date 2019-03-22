@@ -13,7 +13,7 @@ Project Status
 | Network Structure												|				| Completed |						|		|
 | Frame Format / Packet Structure								|				| Completed |						|		|
 | Metrics Measurement for Network Efficiency					|				| Completed |						|		|
-| Buffer Space availability for CC2650 Launchpad and TI-RTOS 	|				| TBD       |						|		|
+| Buffer Space availability for CC2650 Launchpad and TI-RTOS 	|				| Completed |						|		|
 | Probability Measurement 										|				| TBD       |						|		|
 | Contiki with Hands-on											|				| Completed	|						|		|
 | RIOT with Hands-on											|				| On-going	|						|		|
