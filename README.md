@@ -14,7 +14,7 @@ Project Status
 | Frame Format / Packet Structure								|				| Completed |						|		|
 | Metrics Measurement for Network Efficiency					|				| Completed |						|		|
 | Buffer Space availability for CC2650 Launchpad and TI-RTOS 	|				| Completed |						|		|
-| Probability Measurement 										|				| TBD       |						|		|
+| Probability Measurement 										|				| On-going  |						|		|
 | Contiki with Hands-on											|				| Completed	|						|		|
 | RIOT with Hands-on											|				| On-going	|						|		|
 | Code Composer Studio with CC2650 Launchpad					|				| On-going	|						|		|
